@@ -103,6 +103,3 @@ class Stopwatch extends Component {
 }
 
 export default Stopwatch
-
-
-	git config --global user.name "chandrakiran2000"
